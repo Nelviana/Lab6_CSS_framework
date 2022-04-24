@@ -28,7 +28,8 @@ pt-3 padding top = 3
 mt-3 margin top = 3
 
 3. menambahkan untuk mengatur ukuran size gambar 
-![image](https://user-images.githubusercontent.com/101852867/164956009-f2602bbb-d5bd-4a8d-80be-b1c4c296ecbe.png)
+![6](https://user-images.githubusercontent.com/101852867/164956364-66ae501b-ba76-4589-bee2-fd25d9f26978.png)
+
 
 4. menampilkan colom list grup pada cards 1 dan 2 
 ![5](https://user-images.githubusercontent.com/101852867/164956033-4efedd3d-7272-448c-bed1-16a29aeecf0d.png)
